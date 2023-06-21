@@ -7,6 +7,7 @@ The geodatabase are managed with the aids of ArcGIS application to manage the sp
 The system have 4 user role in total
 
 ADMIN (ADMIN, KKM, CPBV)
+
 ADMIN
 adminname: admin001
 password: 12345678
