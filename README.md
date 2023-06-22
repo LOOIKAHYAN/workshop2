@@ -5,6 +5,8 @@ This main language used in this project include html, css, php, js.
 The database used are MySQL with Apache as Web Server.
 The geodatabase are managed with the aids of ArcGIS application to manage the spatial data.
 
+
+Pls run the workshop2.sql in mysql folder.
 The system have 4 user role in total
 
 
