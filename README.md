@@ -1,5 +1,6 @@
 # workshop2
-This project is my workship 2 individual project, that aims to display the number of cases of dengues in Melaka, Malaysia. 
+This is my previous group project (consists of 4 members, Looi Kah Yan, Aisha, Syahira, Amer).
+This is my workshop2 group project (dengue integrated vector management system), that aims to display the number of cases of dengues in Melaka, Malaysia. 
 This main language used in this project include html, css, php, js. 
 The database used are MySQL with Apache as Web Server.
 The geodatabase are managed with the aids of ArcGIS application to manage the spatial data.
